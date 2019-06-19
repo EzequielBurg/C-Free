@@ -1,3 +1,3 @@
-Este código serve para sortear números aleatórios para apostas na mega-sena.
-Apenas escolha uma opção de aposta (quantidade de números) e o programa gera a quantidade com uma função rand.
-Há um bug que não quis consertar - o programa pode gerar números repetidos.
+Este cÃ³digo serve para cÃ³digos na linguagem C/C++. Este primeiro cÃ³digo serve para sortear nÃºmeros aleatÃ³rios para apostas na mega-sena.
+Apenas escolha uma opÃ§Ã£o de aposta (quantidade de nÃºmeros) e o programa gera a quantidade com uma funÃ§Ã£o rand.
+HÃ¡ um bug que nÃ£o quis consertar - o programa pode gerar nÃºmeros repetidos.
